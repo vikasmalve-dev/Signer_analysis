@@ -4387,3 +4387,4 @@ GoGetSSL G4 CS RSA4096 SHA256 2022 CA-1	FileOrbis FZ-LLC	SF#50428847
 DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1	LS telcom AG	SF#50422480
 DigiCert EV Code Signing CA (SHA2)	Bosch Sicherheitssysteme Engineering GmbH	50287072
 DigiCert EV Code Signing CA (SHA2)	Bosch Sicherheitssysteme Engineering GmbH	50287075
+DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1	Wipro Ltd	STANDALONE
