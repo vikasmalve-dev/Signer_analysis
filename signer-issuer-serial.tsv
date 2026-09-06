@@ -1,3 +1,4 @@
 
 Test Issuer	0FA27D2553F24DA7	Test Subject	I	E	E	50999999
 DigiCert Global G3 Code Signing ECC SHA384 2021 CA1	08F133897FFB116BCFE1CE20BE4FC20C	日月晶耀股份有限公司	I	E	E	50287076
+Test Issuer 75	AABBCC88	not_given_or_unicode_subject	E	I	E	70000001
